@@ -42,6 +42,7 @@ flowchart TD
 | [`templates/objection-handling-guide.md`](templates/objection-handling-guide.md) | Approved objection responses and validation requirements |
 | [`templates/campaign-sales-handoff.md`](templates/campaign-sales-handoff.md) | Trigger, context, follow-up, ownership, and feedback loop |
 | [`examples/sanitized-agentic-ai-example.md`](examples/sanitized-agentic-ai-example.md) | Fictional example for an enterprise agentic AI platform |
+| [`examples/qumulo-cloud-routes-to-market-training.md`](examples/qumulo-cloud-routes-to-market-training.md) | Rep certification guide on Qumulo cloud routes-to-market, qualification, and gotchas |
 
 ## Supported Deliverables
 
